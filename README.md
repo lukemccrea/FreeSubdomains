@@ -10,4 +10,3 @@ This is a collection of repositories that offer free subdomains for you and your
 - [is-a.dev](https://is-a.dev)
 - [is-a-good.dev](https://is-a-good.dev)
 - [runs-on.tech](https://runs-on.tech)
-- [ghdo.pw](https://ghdo.pw)
