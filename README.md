@@ -12,3 +12,5 @@ As a developer, sometimes you need a place to host your project, but you don't w
 - [is-a.dev](https://is-a.dev)
 - [is-a-good.dev](https://is-a-good.dev)
 - [runs-on.tech](https://runs-on.tech)
+
+Know of a repository or website that isn't on this list? Make a pull request and add it!
