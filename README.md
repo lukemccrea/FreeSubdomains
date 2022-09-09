@@ -12,7 +12,6 @@ As a developer, sometimes you need a place to host your project, but you don't w
 - [is-a.dev](https://is-a.dev)
 - [is-a-good.dev](https://is-a-good.dev)
 - [eu.org](https://eu.org)
-- [runs-on.tech](https://runs-on.tech)
 - [developer.li](https://developer.li/)
 - [github.io](https://pages.github.com/)
 
