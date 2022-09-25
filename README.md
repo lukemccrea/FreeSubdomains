@@ -6,6 +6,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 # Websites
 - [js.org](https://js.org) - *Project must be related to javascript*
 - [mod.land](https://mod.land) - *Project must be related to deno*
+- [cli.rs](https://github.com/zackify/cli.rs) - *For rust-related*
 - [wip.la](https://wip.la)
 - [cluster.ws](https://cluster.ws)
 - [thedev.id](https://thedev.id)
