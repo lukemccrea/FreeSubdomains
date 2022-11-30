@@ -9,7 +9,7 @@
 
 As a developer, sometimes you need a place to host your project, but you don't want to pay for a domain. With these sites, you can get a free, short subdomain for you or your project! 
 
-# Websites
+# Subdomains
 | Name | Requirements |
 |------|--------------|
 | [js.org](https://js.org) | *Project must be related to javascript* 
