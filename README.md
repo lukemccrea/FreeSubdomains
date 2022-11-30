@@ -22,7 +22,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [is-a-good.dev](https://is-a-good.dev) |
 | [eu.org](https://eu.org) |
 | [developer.li](https://developer.li/) |
-| [github.io](https://pages.github.com/) |
+| [github.io](https://pages.github.com/) | *Must host using Github Pages* |
 | [is-an.app](https://is-an.app/) |
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
