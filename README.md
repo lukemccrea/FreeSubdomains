@@ -26,6 +26,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [is-an.app](https://is-an.app/) |
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
+| [vercel.com](http://vercel.com/) | *The platform for frontend developers*
 
 Know of a repository or website that isn't on this list? Make a pull request and add it!
 
