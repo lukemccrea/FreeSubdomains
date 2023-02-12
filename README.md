@@ -32,7 +32,9 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
 | [netlify.com](https://netlify.com) | *Must host using Netlify*
 
-Know of a repository or website that isn't on this list? Make a pull request and add it!
+# Contributing
+
+We love it when people contribute to our growing list! If you know of a website to add, create a pull request and add it to the end of the table with any requirements it may have.
 
 # Contributers 
 <img src="https://contrib.rocks/image?repo=lukemccrea/freesubdomains" />
