@@ -30,7 +30,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
-| [netlify.com] (https://netlify.com) | *Must host using Netlify*
+| [netlify.com](https://netlify.com) | *Must host using Netlify*
 
 Know of a repository or website that isn't on this list? Make a pull request and add it!
 
