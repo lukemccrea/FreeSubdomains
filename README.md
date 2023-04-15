@@ -32,6 +32,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
 | [netlify.com](https://netlify.com) | *Must host using Netlify*
+| [freenom.com](https://freenom.com) | *Gives you a full domain and not just a subdomain(ends with .ml, .tk, gq, or .cf)* |
 
 # Contributing
 
