@@ -33,6 +33,8 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
 | [netlify.com](https://netlify.com) | *Must host using Netlify*
 | [replit.com](https://replit.com) | *Must host using Replit*
+| [dual.my](https://dual.my/) |
+| [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
 
 # Contributing
 
