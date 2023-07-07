@@ -2,4 +2,4 @@
 
 | Provider | Reason |
 | ----------- | ----------- |
-| Freenom | Does not provide subdomains and can be skethcy ocassionally. |
+| Freenom | Does not provide subdomains and can be sketchy occasionally. |
