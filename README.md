@@ -21,9 +21,13 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [developer.li](https://developer.li/) |
 | [github.io](https://pages.github.com/) | *Must host using Github Pages* |
 | [is-an.app](https://is-an.app/) |
+| [may-be.gay](https://github.com/may-be-gay/register) | *Project must be a personal website* |
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
 | [netlify.com](https://netlify.com) | *Must host using Netlify*
+| [replit.com](https://replit.com) | *Must host using Replit*
+| [dual.my](https://dual.my/) |
+| [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
 
 Know of a repository or website that isn't on this list? Make a pull request and add it!
