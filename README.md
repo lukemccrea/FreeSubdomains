@@ -27,7 +27,6 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [developer.li](https://developer.li/) |
 | [github.io](https://pages.github.com/) | *Must host using Github Pages* |
 | [is-an.app](https://is-an.app/) |
-| [may-be.gay](https://github.com/may-be-gay/register) | *Project must be a personal website* |
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
