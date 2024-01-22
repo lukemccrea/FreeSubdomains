@@ -21,7 +21,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [is-a.dev](https://is-a.dev) |
 | [is-a-good.dev](https://is-a-good.dev) |
 | [eu.org](https://eu.org) |
-| [freesubdomains.org](https://freesubdomains.org) |
+| [is-a-fullstack.dev](https://is-a-fullstack.dev) |
 | [open-domains.net](https://open-domains.net) |
 | [js.cool](https://js.cool) |
 | [developer.li](https://developer.li/) |
