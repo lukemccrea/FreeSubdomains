@@ -15,13 +15,12 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [is-a.dev](https://is-a.dev) |
 | [is-a-good.dev](https://is-a-good.dev) |
 | [eu.org](https://eu.org) |
-| [freesubdomains.org](https://freesubdomains.org) |
+| [is-a-fullstack.dev](https://is-a-fullstack.dev) |
 | [open-domains.net](https://open-domains.net) |
 | [js.cool](https://js.cool) |
 | [developer.li](https://developer.li/) |
 | [github.io](https://pages.github.com/) | *Must host using Github Pages* |
 | [is-an.app](https://is-an.app/) |
-| [may-be.gay](https://github.com/may-be-gay/register) | *Project must be a personal website* |
 | [dee.al](https://github.com/dee-al/domain.dee.al) |
 | [jsid.dev](https://github.com/namdevel/jsid.dev) |
 | [vercel.com](http://vercel.com/) | *Must host using Vercel*
@@ -29,5 +28,14 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [replit.com](https://replit.com) | *Must host using Replit*
 | [dual.my](https://dual.my/) |
 | [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
+| [env.pm](https://env.pm)
+| [yeet.su](https://yeet.su/) |
+| [getlocalcert.net](https://www.getlocalcert.net) | *For private network use only* |
+| [ngo.us](https://nic.ngo.us) | *For only verified not-for-profit organizations, NGOs* |
+| [nyc.mn](https://dot.nyc.mn) | *Must be related to New York City, NYC IP required* |
+| [obl.ong](https://obl.ong) |
+| [OpenHost](https://registry.openhost.uk) | *Offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with Mozilla PSL support* |
+| [pp.ua](https://pp.ua) |
+| [us.kg](https://nic.us.kg) | *Requires KYC process and annual renewal* |
 
 Know of a repository or website that isn't on this list? Make a pull request and add it!
