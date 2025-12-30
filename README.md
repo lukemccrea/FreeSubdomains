@@ -38,7 +38,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [yeet.su](https://yeet.su/) |
 | [getlocalcert.net](https://www.getlocalcert.net) | *For private network use only* |
 | [ngo.us](https://nic.ngo.us) | *For only verified not-for-profit organizations, NGOs* |
-| [nyc.mn](https://dot.nyc.mn) | *Must be related to New York City, NYC IP required* |
+| [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (.nyc.mn, .cn.st with Mozilla PSL support), funded through charitable donations or the GitHub Developers Program — offering free subdomains to developers who operate a GitHub repository with 100+ stars. |
 | [obl.ong](https://obl.ong) |
 | [OpenHost](https://registry.openhost.uk) | *Offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with Mozilla PSL support* |
 | [pp.ua](https://pp.ua) |
