@@ -43,6 +43,8 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [OpenHost](https://registry.openhost.uk) | *Offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with Mozilla PSL support* |
 | [pp.ua](https://pp.ua) |
 | [us.kg](https://nic.us.kg) | *Requires KYC process and annual renewal* |
+| [2929 Domains](https://www.029290.xyz) | Free Subdomais Under 029290.xyz Tld.|
+
 
 # Contributing
 
