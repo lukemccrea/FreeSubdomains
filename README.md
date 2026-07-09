@@ -43,7 +43,11 @@ As a developer, sometimes you need a place to host your project, but you don't w
 
 We love it when people contribute to our growing list! If you know of a website to add, create a pull request and add it to the end of the table with any requirements it may have.
 
-In order for a website to be approved, make sure it is not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md) and lets you get your own subdomain at no cost. It also must let you use your own custom website and cannot be a website builder (eg. Wix.com).
+For a website to be approved, make sure it meets the following requirements:
+
+-  Not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md)
+-  Provides a custom subdomain at no cost
+-  Must let you use your own custom website and cannot be a website builder (eg. Wix.com)
 
 # Contributers
 
