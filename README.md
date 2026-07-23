@@ -38,6 +38,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [vtxgames.co.uk](https://github.com/vtxgamesofficial/subdomains) | _Project must be a game_                                                                                                                                                                                                                        |
 | [pages.dev](https://pages.cloudflare.com/)                       | _Must host using Cloudflare Pages_                                                                                                                                                                                                              |
 | [workers.dev](https://workers.cloudflare.com/)                   | _Must host using Cloudflare Workers_                                                                                                                                                                                                            |
+| [ing.ng](https://ing.ng)                                      | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                                                                                    |
 
 # Contributing
 
