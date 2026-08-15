@@ -36,9 +36,10 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [pp.ua](https://pp.ua)                                           |                                                                                                                                                                                                                                                 |
 | [us.kg](https://nic.us.kg)                                       | _Requires KYC process and annual renewal_                                                                                                                                                                                                       |
 | [vtxgames.co.uk](https://github.com/vtxgamesofficial/subdomains) | _Project must be a game_                                                                                                                                                                                                                        |
-| [pages.dev](https://pages.cloudflare.com/)                       | _Must host using Cloudflare Pages_                                                                                                                                                                                                              |
-| [workers.dev](https://workers.cloudflare.com/)                   | _Must host using Cloudflare Workers_                                                                                                                                                                                                            |
-| [ing.ng](https://ing.ng)                                      | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                                                                                    |
+| [pages.dev](https://pages.cloudflare.com/)                        | _Must host using Cloudflare Pages_                                                                                                                                                       |
+| [workers.dev](https://workers.cloudflare.com/)                    | _Must host using Cloudflare Workers_                                                                                                                                                     |
+| [ing.ng](https://ing.ng)                                         | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                           |
+| [fluxcast.dev](https://github.com/IlyaP358/fluxcast-domains)      | Free GitOps subdomain registry for developers (*.fluxcast.dev)                                                                                                                           |
 
 # Contributing
 
@@ -46,10 +47,10 @@ We love it when people contribute to our growing list! If you know of a website 
 
 For a website to be approved, make sure it meets the following requirements:
 
--  Not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md)
--  Provides a custom subdomain at no cost
--  Must let you use your own custom website and cannot be a website builder (eg. Wix.com)
+- Not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md)
+- Provides a custom subdomain at no cost
+- Must let you use your own custom website and cannot be a website builder (eg. Wix.com)
 
-# Contributers
+# Contributors
 
 <img src="https://contrib.rocks/image?repo=lukemccrea/freesubdomains" />
