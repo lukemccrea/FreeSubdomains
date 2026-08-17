@@ -25,7 +25,6 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [netlify.com](https://netlify.com)                               | _Must host using Netlify_                                                                                                                                                                                                                       |
 | [replit.com](https://replit.com)                                 | _Must host using Replit_                                                                                                                                                                                                                        |
 | [dual.my](https://dual.my/)                                      |                                                                                                                                                                                                                                                 |
-| [tilde.tk](https://github.com/youngchief-btw/tilde.tk)           |                                                                                                                                                                                                                                                 |
 | [env.pm](https://env.pm)                                         |                                                                                                                                                                                                                                                 |
 | [yeet.su](https://yeet.su/)                                      |                                                                                                                                                                                                                                                 |
 | [getlocalcert.net](https://www.getlocalcert.net)                 | _For private network use only_                                                                                                                                                                                                                  |
@@ -38,8 +37,12 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [vtxgames.co.uk](https://github.com/vtxgamesofficial/subdomains) | _Project must be a game_                                                                                                                                                                                                                        |
 | [pages.dev](https://pages.cloudflare.com/)                       | _Must host using Cloudflare Pages_                                                                                                                                                                                                              |
 | [workers.dev](https://workers.cloudflare.com/)                   | _Must host using Cloudflare Workers_                                                                                                                                                                                                            |
-| [ing.ng](https://ing.ng)                                      | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                                                                                    |
-| [harvis.dev](https://harvis.dev)                              | _Must host using harvis.dev (free static hosting; every site gets a `slug.harvis.dev` subdomain)_                                                                                                                                              |
+| [ing.ng](https://ing.ng)                                         | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                                                                                    |
+| [harvis.dev](https://harvis.dev)                                 | _Must host using harvis.dev (free static hosting; every site gets a `slug.harvis.dev` subdomain)_                                                                                                                                              |
+| [pages.dev](https://pages.cloudflare.com/)                       | _Must host using Cloudflare Pages_                                                                                                                                                       |
+| [workers.dev](https://workers.cloudflare.com/)                   | _Must host using Cloudflare Workers_                                                                                                                                                     |
+| [ing.ng](https://ing.ng)                                         | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                           |
+| [fluxcast.dev](https://github.com/IlyaP358/fluxcast-domains)     | Free GitOps subdomain registry for developers (*.fluxcast.dev)                                                                                                                           |
 
 # Contributing
 
@@ -47,10 +50,10 @@ We love it when people contribute to our growing list! If you know of a website 
 
 For a website to be approved, make sure it meets the following requirements:
 
--  Not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md)
--  Provides a custom subdomain at no cost
--  Must let you use your own custom website and cannot be a website builder (eg. Wix.com)
+- Not on our [denied list](https://github.com/lukemccrea/FreeSubdomains/blob/main/DENIED.md)
+- Provides a custom subdomain at no cost
+- Must let you use your own custom website and cannot be a website builder (eg. Wix.com)
 
-# Contributers
+# Contributors
 
 <img src="https://contrib.rocks/image?repo=lukemccrea/freesubdomains" />
