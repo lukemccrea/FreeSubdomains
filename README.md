@@ -40,6 +40,8 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [ing.ng](https://ing.ng)                                         | _Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web; no renewal fees_                                                                                                    |
 | [harvis.dev](https://harvis.dev)                                 | _Must host using harvis.dev (free static hosting with `npx harvis`; every site gets a `slug.harvis.page` subdomain)_                                                                                                                                              |
 | [fluxcast.dev](https://github.com/IlyaP358/fluxcast-domains)     | Free GitOps subdomain registry for developers (*.fluxcast.dev)                                                                                                                           |
+| [agentdomains.co](https://agentdomains.co)                       | _Free `*.agentdomains.co` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                 |
+| [makes.fyi](https://agentdomains.co)                             | _Free `*.makes.fyi` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                       |
 
 # Contributing
 
