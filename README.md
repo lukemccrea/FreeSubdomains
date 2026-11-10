@@ -42,6 +42,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [fluxcast.dev](https://github.com/IlyaP358/fluxcast-domains)     | Free GitOps subdomain registry for developers (*.fluxcast.dev)                                                                                                                           |
 | [agentdomains.co](https://agentdomains.co)                       | _Free `*.agentdomains.co` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                 |
 | [makes.fyi](https://agentdomains.co)                             | _Free `*.makes.fyi` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                       |
+| [does.software](https://does.software)                           | _Free `*.does.software` name with web redirect (3.5 s notice on the free plan) and email forwarding; 1 name free, renewed at no cost every 45 days. Static hosting and direct redirects on paid plans_ |
 
 # Contributing
 
