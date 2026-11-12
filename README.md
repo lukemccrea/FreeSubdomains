@@ -43,6 +43,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [agentdomains.co](https://agentdomains.co)                       | _Free `*.agentdomains.co` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                 |
 | [makes.fyi](https://agentdomains.co)                             | _Free `*.makes.fyi` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                       |
 | [webly.site](https://webly.ai)                                   | _Must host using Webly (static website hosting for AI agents; every site gets a `name.webly.site` subdomain, 25 sites on the free plan)_ |
+| [Public Free Suffix](https://publicfreesuffix.org)               | _Free subdomains on six suffixes (is-a.si, no.kg, so.kg, pfsdns.org, nastu.net, tun.re); web console sign-up, REST API and MCP support, must deploy something within 30 days_                                                                    |
 
 # Contributing
 
