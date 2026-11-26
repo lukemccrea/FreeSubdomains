@@ -43,6 +43,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [agentdomains.co](https://agentdomains.co)                       | _Free `*.agentdomains.co` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                 |
 | [makes.fyi](https://agentdomains.co)                             | _Free `*.makes.fyi` subdomains (A/AAAA/CNAME/TXT/NS, auto-HTTPS proxy, forwarding), claimed from a CLI or MCP server; email confirmation, 10 names free, optional Pro plan $5/mo for 100_                                                       |
 | [Public Free Suffix](https://publicfreesuffix.org)               | _Free subdomains on six suffixes (is-a.si, no.kg, so.kg, pfsdns.org, nastu.net, tun.re); web console sign-up, REST API and MCP support, must deploy something within 30 days_                                                                    |
+| [prod.page](https://get.prod.page)                               | _Free blitz.cloud account (no card); HTTPS, a sub-address per app and up to 10 DNS records (A/AAAA/CNAME/TXT/MX); host your own site, Docker container or app there or point the name elsewhere; on the Public Suffix List_ |
 
 # Contributing
 
